@@ -11,11 +11,11 @@
     "logo_title": "Analiza de impact",
     "logo_subtitle": "",
     "homepage_link": "Panou central",
-    "knowledge_base_link": "Knowledge base",
+    "knowledge_base_link": "Documentatie",
     "pia_example_link": "Exemplu AIVP",
     "languages": {
-      "official_translations": "Official translations",
-      "unofficial_translations": "Unofficial translations",
+      "official_translations": "Traduceri oficiale",
+      "unofficial_translations": "Traduceri neoficiale",
       "fr": "Français",
       "en": "English",
       "cz": "Česky",
@@ -57,78 +57,78 @@
       "or": "ori",
       "import_pia": "Importa AIVP",
       "placeholder_import_pia": "Importa AIVP",
-      "title_close_creation": "Close",
-      "pia_name": "PIA",
-      "placeholder_pia_name": "PIA's title",
-      "author": "Editing",
-      "placeholder_author": "Firstname, lastname",
-      "evaluation": "Review",
-      "placeholder_evaluation": "Firstname, lastname",
-      "validation": "Validation",
-      "placeholder_validation": "Firstname, lastname",
-      "date": "Date",
+      "title_close_creation": "Inchide",
+      "pia_name": "AIVP",
+      "placeholder_pia_name": "Titlu AIVP",
+      "author": "Editare",
+      "placeholder_author": "Prenume, Nume",
+      "evaluation": "Revizuire",
+      "placeholder_evaluation": "Prenume, Nume",
+      "validation": "Validare",
+      "placeholder_validation": "Prenume, Nume",
+      "date": "Data",
       "status": "Status",
-      "creation_status": "Creation",
+      "creation_status": "Creare",
       "start": "Start",
-      "placeholder_start": "All fields must be filled",
+      "placeholder_start": "Toate campurile trebuie completate",
       "item": {
         "tools": {
-          "edit": "Edit information",
+          "edit": "Editare informatii",
           "export": "Export",
-          "more_options": "More options",
-          "duplicate": "Duplicate",
-          "action_plan": "Display<br>action plan",
-          "pia": "Display<br>PIA",
-          "remove": "Delete"
+          "more_options": "Mai multe optiuni",
+          "duplicate": "Duplicare",
+          "action_plan": "Afiseaza<br> planul de actiune",
+          "pia": "Afiseaza<br>AIVP",
+          "remove": "Sterge"
         },
-        "edit_pia": "Edit PIA",
-        "save_pia": "Save"
+        "edit_pia": "Editeaza AIVP",
+        "save_pia": "Salvare"
       }
     },
     "lists": {
-      "column_pia": "PIA",
-      "column_updated_at": "Last opened",
-      "column_author": "Editing",
-      "column_evaluation": "Review",
-      "column_validation": "Validation",
-      "column_creation": "Created",
+      "column_pia": "AIVP",
+      "column_updated_at": "Ultima editare",
+      "column_author": "Editare",
+      "column_evaluation": "Revizuire",
+      "column_validation": "Validare",
+      "column_creation": "Creata",
       "column_status": "Status",
-      "column_progression": "Progress",
-      "column_actions": "Actions",
+      "column_progression": "Progres",
+      "column_actions": "Actiuni",
       "item": {
         "tools": {
-          "edit": "Edit",
-          "export": "Export",
-          "duplicate": "Duplicate",
-          "action_plan": "Display action plan",
-          "pia": "Display PIA",
-          "remove": "Delete"
+          "edit": "Editare",
+          "export": "Exportare",
+          "duplicate": "Duplicare",
+          "action_plan": "Afiseaza plan de actiune",
+          "pia": "Afiseaza AIVP",
+          "remove": "Stergere"
         }
       }
     }
   },
   "pia": {
     "statuses": {
-      "0": "In progress",
-      "1": "Rejected",
-      "2": "Simple validation",
-      "3": "Signed validation",
-      "4": "Archived",
-      "5": "Waiting for validation"
+      "0": "In lucru",
+      "1": "Respinsa",
+      "2": "Validare simpla",
+      "3": "Validare semnata",
+      "4": "Arhivata",
+      "5": "In asteptarea validarii"
     },
     "header": {
-      "preview": "Preview",
-      "display_action_plan": "Display<br>action plan"
+      "preview": "Previzualizare",
+      "display_action_plan": "Afisare<br>plan de actiune"
     },
     "attachments": {
-      "title": "Attachments",
-      "add": "Add",
-      "remove": "Remove"
+      "title": "Atasamente",
+      "add": "Adaufa",
+      "remove": "Sterge"
     },
     "sections": {
-      "homepage_link": "Back to dashboard",
-      "validate_pia": "Validate PIA",
-      "refuse_pia": "Refused PIA",
+      "homepage_link": "Inapoi la Panoul de control",
+      "validate_pia": "Validare AIVP",
+      "refuse_pia": "AIVP refuzata",
       "status": {
         "evaluation": {
           "title": "",
@@ -143,42 +143,42 @@
       }
     },
     "footer": {
-      "ask_evaluation": "Ask for review",
-      "validate_evaluation": "Validate review",
-      "subsection_validated": "Subsection reviewed, awaiting final validation",
-      "mandatory_fields": "All fields must be filled"
+      "ask_evaluation": "Cere revizuire",
+      "validate_evaluation": "Valideaza revizuirea",
+      "subsection_validated": "Subsectiune revizuita, in asteptarea revizuire finala",
+      "mandatory_fields": "Toate campurile trebuie completate"
     }
   },
   "measures": {
-    "placeholder_title": "Measure title",
-    "add": "Add an empty measure (otherwise, use the knowledge base)",
-    "edit": "Edit measure",
-    "remove": "Delete measure",
-    "default_placeholder": "Describe the existing or intended measures to ensure data security."
+    "placeholder_title": "Titlu masura",
+    "add": "Adauga o masura generica (sau folositi Sectiunea Documentatie)",
+    "edit": "Editare masura",
+    "remove": "Stergere masura",
+    "default_placeholder": "Descrieti masura existenta sau care urmeaza a fi implementata care poate securiza datele."
   },
   "knowledge_base": {
-    "title": "Knowledge base",
-    "search": "Search",
-    "add_measure": "Add",
-    "placeholder_help": "Entry aids",
-    "placeholder_add_measure": "Add this measure",
-    "add_measure_hint": "You can also add a measure from the knowledge base.",
+    "title": "Documentatie",
+    "search": "Cauta",
+    "add_measure": "Adauga",
+    "placeholder_help": "Ajutor itemi",
+    "placeholder_add_measure": "Adauga masura",
+    "add_measure_hint": "Puteti adauga o masura din Documentatie.",
     "filters": {
-      "title": "Filters",
-      "all": "All",
-      "definitions": "Definitions",
-      "organizational_measures": "Organisational controls",
-      "measures_on_data": "Logical security controls",
-      "general_measures": "Physical Security controls",
-      "no_result": "No result found."
+      "title": "Filtre",
+      "all": "Toate",
+      "definitions": "Definitii",
+      "organizational_measures": "Controale de oragnizare",
+      "measures_on_data": "Controale logice de securitate",
+      "general_measures": "Controale fizice de securitate",
+      "no_result": "Nu s-a gasit niciun rezultat."
     },
     "category": {
-      "definition": "Definition",
-      "principle": "Principle",
-      "organizational_measure": "Organisational control",
-      "measure_on_data": "Logical security control",
-      "general_measure": "Physical Security control",
-      "example": "Example"
+      "definition": "Definitie",
+      "principle": "Principiu",
+      "organizational_measure": "Control de organizare",
+      "measure_on_data": "Control logic de securitate",
+      "general_measure": "Control fizic de securitate",
+      "example": "Exemplu"
     },
     "slugs": {
       "PIA_LGL_FOND": {
